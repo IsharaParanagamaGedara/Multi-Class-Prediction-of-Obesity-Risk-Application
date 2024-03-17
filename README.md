@@ -18,13 +18,13 @@ The Obesity Risk Prediction App is a simple tool developed using Streamlit, a Py
 
 1. Clone this repository to your local machine.
 2. Install the required packages by running:
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 ## Usage
 
 1. Navigate to the directory containing the app files.
 2. Run the app using the following command:
-    streamlit run predictionapp.py
+    `streamlit run predictionapp.py`
 
 3. Access the app in your web browser at the provided URL.
 
