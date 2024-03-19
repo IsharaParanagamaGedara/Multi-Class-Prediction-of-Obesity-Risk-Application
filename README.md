@@ -25,12 +25,23 @@ The Obesity Risk Prediction App is a simple tool developed using Streamlit, a Py
 ## 🚀 Usage
 
 1. Navigate to the directory containing the app files.
+    ```bash
+    # Clone the repository
+    git clone https://github.com/IsharaParanagamaGedara/Multi-Class-Prediction-of-Obesity-Risk-Application.git
+
+    # Navigate to the project directory
+    cd Multi-Class-Prediction-of-Obesity-Risk-Application
+    ```
+
 2. Run the app using the following command:
     ```bash
     streamlit run predictionApp.py
     ```
 
 3. 🌐 Access the app in your web browser at the provided URL.
+    ```bash
+    http://localhost:8501
+    ```
 
 ## 📥 Input Features
 
